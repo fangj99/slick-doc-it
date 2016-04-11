@@ -1,3 +1,14 @@
+
+This version makes Doc it working when wordpress installed in sub-directory
+
+ENJOY!
+
+
+
+
+
+
+
 === Doc It ===
 Contributors: slickremix
 Tags: documentation, docs, doc, post, page, organize, notes, colored menu, menu, color options, knowledge, knowledge base, order, plugins, plugin, wordpress, wordpress plugin, word, simple, easy, text, text document, documents, faq, faqs, quoble
